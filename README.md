@@ -1,7 +1,7 @@
 # Roles-Proyecto-grupo-7
 
 
-Manager: PBMRPG.
+Manager: Renata Frabasile
 
 documentarista: Renata Frabasile. 
 
